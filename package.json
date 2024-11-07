@@ -26,10 +26,8 @@
         "minecraft-java-core": "^3.10.4",
         "node-bdd": "^2.0.4",
         "node-fetch": "^2.7.0",
-        "xml-js": "^1.6.11"
-    },
-    "overrides": {
-        "uri-js": "^4.4.1"
+        "xml-js": "^1.6.11",
+        "jimp": "^0.22.12"
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
