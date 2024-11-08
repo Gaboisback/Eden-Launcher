@@ -6,7 +6,7 @@
     "main": "src/app.js",
     "author": {
         "name": "Reino Eden",
-        "email": "contact@luuxis.fr",
+        "email": "reinoedenminecraft@gmail.com",
         "url": "https://reinoeden.click/"
     },
     "url": "http://tuto.luuxis.fr",
@@ -40,6 +40,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Gaboisback/Eden-Launcher.git"
     }
 }
